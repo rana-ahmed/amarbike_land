@@ -1,0 +1,16 @@
+[
+	{
+		"routeId" : 1,
+		"routeSource" : "Mirpur",
+		"routeDestination" : "Baridhara R/A",
+		"routeInfo" :  "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam"
+	},
+
+	{
+		"routeId" : 2,
+		"routeSource" : "Mirpur",
+		"routeDestination" : "New Market",
+		"routeInfo" :  "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam"
+	}
+
+]
